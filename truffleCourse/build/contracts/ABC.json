@@ -1,0 +1,79 @@
+{
+  "contractName": "ABC",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/ABC.sol\":\"ABC\"},\"evmVersion\":\"shanghai\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/ABC.sol\":{\"keccak256\":\"0xf333b5f936f7ed4caad234847681b851502a465f6fef195f691a1a77c4c3e081\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://8ec06b0a139ee8a0f1b785e33dac9ed1d3bd76e5d87958b15741f7ccb22b529a\",\"dweb:/ipfs/Qmew1n8e1C3C5ePpFJWTFDTkYmMgk8JBKxXB1dRDBE33AN\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600e575f80fd5b50603e80601a5f395ff3fe60806040525f80fdfea26469706673582212207b2e8d616f1aca427e6ba38ff8dc701474563778c0f5d623af06008a039ab0e964736f6c63430008150033",
+  "deployedBytecode": "0x60806040525f80fdfea26469706673582212207b2e8d616f1aca427e6ba38ff8dc701474563778c0f5d623af06008a039ab0e964736f6c63430008150033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "65:15:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "65:15:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity >=0.5.0 <0.9.0;\n\ncontract ABC {}",
+  "sourcePath": "/Users/Lorimer/Desktop/Othent.io/LearningSolidity/truffleCourse/contracts/ABC.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/ABC.sol",
+    "exportedSymbols": {
+      "ABC": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".0",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:31:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "ABC",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "ABC",
+        "nameLocation": "74:3:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "65:15:0",
+        "usedErrors": [],
+        "usedEvents": []
+      }
+    ],
+    "src": "32:48:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.21+commit.d9974bed.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.16",
+  "updatedAt": "2023-11-18T17:32:40.046Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}

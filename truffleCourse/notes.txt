@@ -1,0 +1,10 @@
+Creating project from scratch
+
+- truffle init
+- truffle create contract lol
+- truffle compile
+- then create migration file, with num on which to deploy first by dependency
+- then set up ganache in truffle config file dev bit (change port: 7545)
+- then deploy contract with - truffle migrate --reset
+
+

@@ -1,0 +1,8 @@
+Create basic contract
+
+
+1. truffle init - create project outline
+2. truffle create contract TestContract - create contract shell
+3. truffle create test TestContract - create tests shell
+
+4. truffle compile
